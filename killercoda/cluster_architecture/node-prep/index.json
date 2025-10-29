@@ -1,0 +1,37 @@
+{
+  "title": "Node Preparation for Kubeadm Setup",
+  "description": "Prepare a node to install a Kubernetes cluster using the Calico CNI.",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Disable swap memory",
+        "text": "step1.md"
+      },
+      {
+        "title": "Load required kernel modules",
+        "text": "step2.md"
+      },
+      {
+        "title": "Set sysctl parameters for Kubernetes networking",
+        "text": "step3.md"
+      },
+      {
+        "title": "Verify hostname",
+        "text": "step4.md"
+      },
+      {
+        "title": "Ensure required ports are open",
+        "text": "step5.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}
