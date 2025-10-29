@@ -4,6 +4,12 @@
   <img src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/logo_cka_whitetext-300x293.png" alt="Certified Kubernetes Administrator" width="300"/>
 </p>
 
+## Note
+
+We are now working on **interactive CKA labs using Killercoda**! You can explore hands-on scenarios in this repository: [killercoda_cka_study_exercises](https://github.com/AGMTZG/killercoda_cka_study_exercises)
+
+---
+
 ## Domains & Competencies
 
 ### Storage 10%
